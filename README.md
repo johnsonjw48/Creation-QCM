@@ -5,6 +5,6 @@ J'ai développé un serveur QCM en PHP et avec une base de données MySQL. Il fo
 ### Fonctionnalités : 
 
 Une personne à un identifiant unique, un nom, un mot de passe, un statut et un mail. Une question/réponse possède un identifiant unique, un thème, un auteur (qui doit être un 
-prof), une question et les réponses proposées, un marqueur de la bonne réponse. A vous de trouver comment représenter cela.
+prof), une question et les réponses proposées, un marqueur de la bonne réponse. 
 
 
