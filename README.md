@@ -2,6 +2,7 @@
 
 J'ai développé un serveur QCM en PHP et avec une base de données MySQL. Il fournit une interface frontend et une interface backend.
 
+
 ### Fonctionnalités : 
 
 Une personne à un identifiant unique, un nom, un mot de passe, un statut et un mail. Une question/réponse possède un identifiant unique, un thème, un auteur (qui doit être un 
@@ -22,4 +23,31 @@ reconnait en tant que prof ou élève, il aura alors les accès correspondants.
 2. Consulter leurs résultats personnels
 
 
+
+### Conception : 
+Ce projet est fait en programmation orientée objet (POO) et structurer en MVC (Modèle, Vue Contrôleur).
+
+
+
+### Technologies utilisées : 
+
+##### Front end:  
+
+* HTML
+* CSS
+
+
+
+##### Back end: 
+
+* PHP
+* MySQL
+
+
+
+
+
+### Comment lancer le projet? 
+
+Accéder au dossier dans lequel les fichiers ont été stocké via votre navigateur web en passant par vos serveurs.
 
